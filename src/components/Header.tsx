@@ -92,7 +92,7 @@ const Header = () => {
               {/* SYN Carpet Logo Image */}
               <div className="relative">
                 <img 
-                  src="/SYN Carpet (1).png" 
+                  src="/SYN CARPET.png" 
                   alt="SYN Carpets Logo" 
                   className="h-12 w-auto object-contain"
                   onError={(e) => {
@@ -233,7 +233,7 @@ const Header = () => {
                     {/* Mobile Menu Logo - SYN Carpet Logo */}
                     <div className="relative">
                       <img 
-                        src="/SYN Carpet (1).png" 
+                        src="/SYN CARPET.png" 
                         alt="SYN Carpets Logo" 
                         className="h-10 w-auto object-contain"
                         onError={(e) => {

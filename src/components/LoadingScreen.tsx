@@ -60,7 +60,7 @@ const LoadingScreen: React.FC<LoadingScreenProps> = ({ onComplete }) => {
           >
             <div className="relative">
               <img 
-                src="/SYN Carpet (1).png" 
+                src="/SYN CARPET.png" 
                 alt="SYN Carpets Logo" 
                 className="h-16 w-auto object-contain"
                 onError={(e) => {

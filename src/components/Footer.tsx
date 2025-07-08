@@ -13,7 +13,7 @@ const Footer = () => {
                 {/* SYN Carpet Logo - Footer Version */}
                 <div className="relative">
                   <img 
-                    src="/SYN Carpet (1).png" 
+                    src="/SYN CARPET.png" 
                     alt="SYN Carpets Logo" 
                     className="h-12 w-auto object-contain"
                     onError={(e) => {
@@ -242,7 +242,7 @@ const Footer = () => {
                 {/* Professional Logo - Bottom Bar Version */}
                 <div className="relative">
                   <img 
-                    src="/SYN Carpet (1).png" 
+                    src="/SYN CARPET.png" 
                     alt="SYN Carpets Logo" 
                     className="h-8 w-auto object-contain"
                     onError={(e) => {
